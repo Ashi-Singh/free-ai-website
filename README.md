@@ -33,10 +33,8 @@ Send A Massage Get payment Address.
 
 # Ai Categorys: 👇
 
-- [`Text To Image`](https://Chrome://dino)
-- [`Text To Video`](https://Chrome://dino)
-- [`Photo Edit`]
-- [`Video Edit`]
+- [`Text To Image And Text To Video`](https://Chrome://dino)
+- [`Photo And Video Edit`](https://Chrome://dino)
 - [`18+ Edit`](https://Chrome://dino)
 <br>
 
@@ -47,6 +45,24 @@ We store the original game over function in a variable. This step is **IMPORTANT
 
 <p align="center">
 <a href="https://dream.ai/"><img title="Size" src="https://img.shields.io/badge/Dream-Ai-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"></a>
+</p>
+
+<br>
+
+## Dream Wombo
+What is Dezgo AI? On Dezgo.com, you can craft images using textual descriptions, adapt pre-existing visuals to align with specific text, or even swap out sections of an image based on dual text inputs. It provides an array of models, resolutions, and bespoke settings to finetune your creative process.
+
+<p align="center">
+<a href="https://dezgo.com/"><img title="Size" src="https://img.shields.io/badge/Dezgo-Ai-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"></a>
+</p>
+
+<br>
+
+## Msga Space
+Mage. space is a free online AI image generator running on Stable Diffusion. The site has a super easy to use interface and a fast generation time. After your generation is complete, you can click on “Enhance” to automatically upscale your image to 2048×2048.
+
+<p align="center">
+<a href="https://www.mage.space/"><img title="Size" src="https://img.shields.io/badge/MegaSpace-Ai-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"></a>
 </p>
 
 <br>
