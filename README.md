@@ -87,6 +87,7 @@ What is Dezgo AI? On Dezgo.com, you can craft images using textual descriptions,
 Mage. space is a free online AI image generator running on Stable Diffusion. The site has a super easy to use interface and a fast generation time. After your generation is complete, you can click on “Enhance” to automatically upscale your image to 2048×2048.
 
 <p align="center">
+align="vcenter">
 <a href="https://www.mage.space/"><img title="Size" src="https://img.shields.io/badge/MegaSpace-Ai-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"></a>
 </p>
 
