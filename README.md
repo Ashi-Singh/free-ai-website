@@ -33,7 +33,7 @@ Send A Massage Get payment Address.
 
 # Ai Categorys: 👇
 
-- [`Text To Image And Text To Video`](https://github.com/Ashi-Singh/free-ai-website/README.md/41)
+- [`Text To Image And Text To Video`](https://github.com/Ashi-Singh/free-ai-website#%EF%B8%8F-text-to-image-and-text-to-video-%EF%B8%8F)
 - [`Photo And Video Edit`](https://Chrome://dino)
 - [`18+ Edit`](https://Chrome://dino)
 <br>
