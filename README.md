@@ -33,9 +33,12 @@ Send A Massage Get payment Address.
 
 # Ai Categorys: 👇
 
-- [`Text To Image And Text To Video`](https://Chrome://dino)
+- [`Text To Image And Text To Video`](https://github.com/Ashi-Singh/free-ai-website/README.md/41)
 - [`Photo And Video Edit`](https://Chrome://dino)
 - [`18+ Edit`](https://Chrome://dino)
+<br>
+
+<h2 align="center">⚒️ Text To Image And Text To Video ⚒️</h2>
 <br>
 
 ## <!-- Typing SVG -->
@@ -68,6 +71,23 @@ What is Dezgo AI? On Dezgo.com, you can craft images using textual descriptions,
 
 <p align="center">
 <a href="https://dezgo.com/"><img title="Size" src="https://img.shields.io/badge/Dezgo-Ai-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"></a>
+</p>
+
+<br>
+
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/Ashi-Singh">
+        <img
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Mega+Space."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+Mage. space is a free online AI image generator running on Stable Diffusion. The site has a super easy to use interface and a fast generation time. After your generation is complete, you can click on “Enhance” to automatically upscale your image to 2048×2048.
+
+<p align="center">
+<a href="https://www.mage.space/"><img title="Size" src="https://img.shields.io/badge/MegaSpace-Ai-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"></a>
 </p>
 
 <br>
