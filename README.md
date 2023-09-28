@@ -35,9 +35,9 @@ Send A Massage Get payment Address.
 
 - [`Text To Image And Text To Video`](https://github.com/Ashi-Singh/free-ai-website#%EF%B8%8F-text-to-image-and-text-to-video-%EF%B8%8F)
 - [`Photo And Video Edit`](https://github.com/Ashi-Singh/free-ai-website#%EF%B8%8F-photo-and-video-edit-%EF%B8%8F)
-- [`Typer Ai`](https://Chrome://dino)
-- [`Music And Voice Ai`](https://Chrome://dino)
-- [`Adult(18+) Ai`](https://Chrome://dino)
+- [`Typer Ai`](https://github.com/Ashi-Singh/free-ai-website#%EF%B8%8F-typer-ai-%EF%B8%8F)
+- [`Music And Voice Ai`](https://github.com/Ashi-Singh/free-ai-website#%EF%B8%8F-music-and-voice-ai-%EF%B8%8F)
+- [`Adult(18+) Ai`](https://github.com/Ashi-Singh/free-ai-website#%EF%B8%8F-adult18-ai-%EF%B8%8F)
 <br>
 
 <h2 align="center">⚒️ Text To Image And Text To Video ⚒️</h2>
@@ -209,7 +209,7 @@ Welcome to the world of limitless storytelling possibilities! Our Free AI Story 
 <p align="center">
     <a href="https://github.com/Ashi-Singh">
         <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Beta+Elevenlabs.++(Voice Generation)"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Beta+Elevenlabs.++(Voice+Generation)"
             alt="Typing SVG"
         />
     </a>
@@ -226,7 +226,7 @@ ElevenLabs, the viral AI-powered platform for creating synthetic voices, today l
 <p align="center">
     <a href="https://github.com/Ashi-Singh">
         <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Voice+Ai.++(Any Character Voice Changer)"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Voice+Ai.++(Any+Character+Voice+Changer)"
             alt="Typing SVG"
         />
     </a>
@@ -243,7 +243,7 @@ Voice AI is a type of artificial intelligence technology that mimics the human v
 <p align="center">
     <a href="https://github.com/Ashi-Singh">
         <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=App+Kits+Ai.++(Any Character Voice Changer)"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=App+Kits+Ai.++(Any+Character+Voice+Changer)"
             alt="Typing SVG"
         />
     </a>
@@ -260,7 +260,7 @@ Kits.AI is the first AI voice generation platform to work directly with artists 
 <p align="center">
     <a href="https://github.com/Ashi-Singh">
         <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Soundraw+Ai.++(Sounds Generatior)"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Soundraw+Ai.++(Sounds+Generatior)"
             alt="Typing SVG"
         />
     </a>
@@ -277,7 +277,7 @@ Soundraw is an AI music generator that allows you to create and compose original
 <p align="center">
     <a href="https://github.com/Ashi-Singh">
         <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Fineshare+Ai.++(Music Cover Generatior)"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Fineshare+Ai.++(Music+Cover+Generatior)"
             alt="Typing SVG"
         />
     </a>
